@@ -21,7 +21,7 @@ repository               : "aarushbhattofficial/aarushbhattofficial.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Aarush Bhatt"
   pronouns         : # example: "she/her"  
   bio              : "I share birthday with David Hilbert. And Paul Dirac is my idol."

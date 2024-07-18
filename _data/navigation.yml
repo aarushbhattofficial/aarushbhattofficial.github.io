@@ -3,9 +3,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Exposition"
-    url: /exposition/
-
   - title: "Portfolio"
     url: /portfolio/
 

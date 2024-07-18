@@ -3,6 +3,8 @@ permalink: /resources/jee/
 title: "Handwritten JEE Notes"
 ---
 
+**NOTE:** For Inorganic Chemistry, I relied on notes provided by my teacher. Hence, they are not mine.
+
 XI
 ======
 

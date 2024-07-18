@@ -18,9 +18,9 @@ So, I thought I need proper mathematical training before tackling things on the 
 Exposition
 ======
 Sometimes, I also write long form scientific non-fiction focusing on fundamental physics. \
-You can check out my work under Portfolio.
+You can check out my work under [Portfolio](https://aarushbhattofficial.github.io/portfolio/).
 
 Resources
 ======
-Currently, you can access my handwritten JEE Notes under Resources. \
+Currently, you can access my handwritten JEE Notes under [Resources](https://aarushbhattofficial.github.io/resources/). \
 I will make sure to upload my Math and Physics UG coursework notes as well as I move ahead in my academic journey.

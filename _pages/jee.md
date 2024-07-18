@@ -5,6 +5,10 @@ title: "Handwritten JEE Notes"
 
 XI
 ======
+
+Physics
+------
+
 * [Vectors](https://aarushbhattofficial.github.io/files/jee/Physics/XI/Vectors.pdf)
 * [Kinematics](https://aarushbhattofficial.github.io/files/jee/Physics/XI/Kinematics.pdf)
 * [Newton's Laws of Motion](https://aarushbhattofficial.github.io/files/jee/Physics/XI/Newton_s Laws of Motion.pdf)
@@ -21,14 +25,9 @@ XI
 * [Waves](https://aarushbhattofficial.github.io/files/jee/Physics/XI/Waves.pdf)
 
 
-
-
-Physics
-------
-
-
 Chemistry
 ------
+
 
 
 Mathematics
@@ -40,6 +39,17 @@ XII
 
 Physics
 ------
+* [Electrostatics](https://aarushbhattofficial.github.io/files/jee/Physics/XII/Electrostatics.pdf)
+* [Current Electricity](https://aarushbhattofficial.github.io/files/jee/Physics/XII/Current Electricity.pdf)
+* [Magnetism](https://aarushbhattofficial.github.io/files/jee/Physics/XII/Magnetism.pdf)
+* [Electromagnetic Induction](https://aarushbhattofficial.github.io/files/jee/Physics/XII/Electromagnetic Induction.pdf)
+* [Alternating Current & EM Waves](https://aarushbhattofficial.github.io/files/jee/Physics/XII/Alternating Current & EM Waves.pdf)
+* [Electronics](https://aarushbhattofficial.github.io/files/jee/Physics/XII/Electronics.pdf)
+* [Geometrical Optics](https://aarushbhattofficial.github.io/files/jee/Physics/XII/Geometrical Optics.pdf)
+* [Wave Optics](https://aarushbhattofficial.github.io/files/jee/Physics/XII/Wave Optics.pdf)
+* [Modern Physics](https://aarushbhattofficial.github.io/files/jee/Physics/XII/Modern Physics.pdf)
+* [Experimental Physics](https://aarushbhattofficial.github.io/files/jee/Physics/XII/Experimental Physics.pdf)
+
 
 Chemistry
 ------

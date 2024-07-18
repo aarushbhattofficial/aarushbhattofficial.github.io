@@ -69,3 +69,17 @@ Chemistry
 
 Mathematics
 ------
+
+* [Relations and Functions](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Relations and Functions.pdf)
+* [Limits, Continuity and Differentiability](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Limits, Continuity and Differentiability.pdf)
+* [Differentiation](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Differentiation.pdf)
+* [Application of Derivatives](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Application of Derivatives.pdf)
+* [Indefinite Integration](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Indefinite Integration.pdf)
+* [Definite Integration](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Definite Integration.pdf)
+* [Area](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Area.pdf)
+* [Differential Equations](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Differential Equations.pdf)
+* [Probability](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Probability.pdf)
+* [Determinants & Matrices](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Determinants & Matrices.pdf)
+* [Vectors & 3D Geometry](https://aarushbhattofficial.github.io/files/jee/Mathematics/XII/Vectors & 3D Geometry.pdf)
+
+

@@ -5,5 +5,5 @@ permalink: /exposition/
 author_profile: true
 ---
 
-* [Portfolio Item I](../_exposition/portfolio-1.md)
-* [Portfolio Item II](../_exposition/portfolio-2.md)
+* [Portfolio Item I](https://aarushbhattofficial.github.io/exposition/portfolio-1/)
+* [Portfolio Item II](https://aarushbhattofficial.github.io/exposition/portfolio-2/)

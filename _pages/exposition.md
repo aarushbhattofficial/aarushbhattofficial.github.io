@@ -5,4 +5,4 @@ permalink: /exposition/
 author_profile: true
 ---
 
-* [Portfolio-1](/exposition/portfolio-1.md/)
+* [Portfolio-1](/exposition/portfolio-1/)

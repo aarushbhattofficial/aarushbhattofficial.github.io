@@ -27,6 +27,24 @@ Physics
 
 Chemistry
 ------
+* [Chemistry XI Short Notes](https://aarushbhattofficial.github.io/files/jee/Chemistry/Chemistry XI Short Notes.pdf)
+* [Stoichiometry and Redox Reactions](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Stoichiometry and Redox Reactions.pdf)
+* [Atomic Structure](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Atomic Structure.pdf)
+* [Periodic Properties](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Periodic Properties.pdf)
+* [Chemical Bonding](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Chemical Bonding.pdf)
+* [Gaseous State](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Gaseous State.pdf)
+* [S-Block](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/S-Block.pdf)
+* [Hydrogen](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Hydrogen.pdf)
+* [Chemical Equilibrium](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Chemical Equilibrium.pdf)
+* [Ionic Equilibrium](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Ionic Equilibrium.pdf)
+* [Thermodynamics](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Thermodynamics.pdf)
+* [Boron Family](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Boron Family.pdf)
+* [Carbon Family](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Carbon Family.pdf)
+* [Chemical Kinetics](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Chemical Kinetics.pdf)
+* [General Organic Chemistry](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/General Organic Chemistry.pdf)
+* [Isomerism](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Isomerism.pdf)
+* [Hydrocarbons](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Hydrocarbons.pdf)
+* [Electrophilic Aromatic Substitution](https://aarushbhattofficial.github.io/files/jee/Chemistry/XI/Electrophilic Aromatic Substitution.pdf)
 
 
 

@@ -32,6 +32,19 @@ Chemistry
 
 Mathematics
 ------
+* [Mathematics Formula Sheet](https://aarushbhattofficial.github.io/files/jee/Mathematics/Mathematics Formula Sheet.pdf)
+* [Fundamentals of Mathematics](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Fundamentals of Mathematics.pdf)
+* [Quadratic Equations](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Quadratic Equations.pdf)
+* [Progression & Series](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Progression & Series.pdf)
+* [Straight Lines](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Straight Lines.pdf)
+* [Trigonometric Equations & Inverse Trigonometric Functions](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Trigonometric Equations & Inverse Trigonometric Functions.pdf)
+* [Complex Numbers](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Complex Numbers.pdf)
+* [Binomial Theorem](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Binomial Theorem.pdf)
+* [Permutations & Combinations](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Permutations & Combinations.pdf)
+* [Parabola](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Parabola.pdf)
+* [Ellipse & Hyperbola](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Ellipse & Hyperbola.pdf)
+* [Solution of Triangles](https://aarushbhattofficial.github.io/files/jee/Mathematics/XI/Solution of Triangles.pdf)
+
 
 
 XII

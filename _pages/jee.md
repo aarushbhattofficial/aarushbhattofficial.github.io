@@ -5,6 +5,22 @@ title: "Handwritten JEE Notes"
 
 XI
 ======
+* [Vectors] (https://aarushbhattofficial.github.io/files/jee/Physics/XI/Vectors)
+<!-- * [Kinematics] ()
+* [Newton's Laws of Motion] ()
+* [Work, Power and Energy] ()
+* [Center of Mass] ()
+* [Momentum] ()
+* [Collision] ()
+* [Rotation] ()
+* [Gravitation] ()
+* [Elasticity] ()
+* [Simple Harmonic Motion] ()
+* [Fluids] ()
+* [Heat] ()
+* [Waves] () -->
+
+
 
 Physics
 ------
@@ -12,8 +28,6 @@ Physics
 
 Chemistry
 ------
-
-* [Class XI Chemistry Short Notes](https://aarushbhattofficial.github.io/files/jee/chemistry_xi_short_notes.pdf)
 
 
 Mathematics

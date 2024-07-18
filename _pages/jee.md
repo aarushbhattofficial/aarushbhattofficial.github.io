@@ -5,7 +5,7 @@ title: "Handwritten JEE Notes"
 
 XI
 ======
-* [Vectors] (https://aarushbhattofficial.github.io/files/jee/Physics/XI/Vectors)
+* [Vectors] (https://aarushbhattofficial.github.io/files/jee/Physics/XI/Vectors.pdf)
 <!-- * [Kinematics] ()
 * [Newton's Laws of Motion] ()
 * [Work, Power and Energy] ()

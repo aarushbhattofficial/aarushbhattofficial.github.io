@@ -84,6 +84,36 @@ Physics
 
 Chemistry
 ------
+* [Alkyl Halide](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Alkyl Halide.pdf)
+* [Alcohols, Phenols and Ethers](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Alcohols, Phenols and Ethers.pdf)
+* [Aldehydes and Ketones](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Aldehydes and Ketones.pdf)
+* [Carboxylic Acids and its Derivatives](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Carboxylic Acids and its Derivatives.pdf)
+* [Amines](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Amines.pdf)
+* [Biomolecules](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Biomolecules.pdf)
+* [Electrochemistry](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Electrochemistry.pdf)
+
+* Coordination Compounds
+    * [I](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Coordination Compounds I.pdf)
+    * [II](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Coordination Compounds II.pdf)
+    * [Important Compounds](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Important Compounds in Coordination.pdf)
+
+
+* [Solid State](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Solid State.pdf)
+* [Surface Chemistry](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Surface Chemistry.pdf)
+* [P-Block](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/P-Block.pdf)
+
+* Ores & Metallurgy
+    * [I](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Ores & Metallurgy I.pdf)
+    * [II](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Ores & Metallury II.pdf)
+    * [III](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Ores & Metallury III.pdf)
+
+
+* Qualitative Analysis
+    * [I](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Qualitative Analysis I.pdf)
+    * [II](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Qualitative Analysis II.pdf)
+    * [III](https://aarushbhattofficial.github.io/files/jee/Chemistry/XII/Qualitative Analysis III.pdf)
+
+
 
 Mathematics
 ------

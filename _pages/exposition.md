@@ -5,5 +5,5 @@ permalink: /exposition/
 author_profile: true
 ---
 
-* [Portfolio Item I](/exposition/portfolio-1/)
-* [Portfolio Item II](/exposition/portfolio-2/)
+* [Portfolio Item I](../_exposition/portfolio-1.md)
+* [Portfolio Item II](../_exposition/portfolio-2.md)

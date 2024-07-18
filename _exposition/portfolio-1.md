@@ -1,18 +1,7 @@
-<!-- ---
+---
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: exposition
-author_profile: true
---- -->
-
----
-title: "Portfolio-1"
-collection: exposition
-type: "Undergraduate course"
-permalink: /exposition/portfolio-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
 

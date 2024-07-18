@@ -3,8 +3,10 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Exposition"
-    url: /exposition/
+  # - title: "Exposition"
+  #   url: /exposition/
+    - title: "Portfolio"
+    - url: /portfolio/
   
   # - title: "Publications"
   #   url: /publications/

@@ -1,5 +1,6 @@
-# ![Here is All the Physics you Missed](https://aarushbhattofficial.github.io/images/exposition/Here is All the Physics you Missed.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Here is All the Physics you Missed.png)
 
+# Here is All the Physics you Missed
 ### **Listing Physics based on Length scale**
 
 # Prologue

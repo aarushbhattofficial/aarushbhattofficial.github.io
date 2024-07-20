@@ -1,9 +1,4 @@
----
-title: "Here is All the Physics you Missed"
-excerpt: "Listing Physics based on Length scale<br/><img src='/images/portfolio/Here is All the Physics you Missed/Thumbnail Resized.png'>"
-collection: portfolio
----
-
+# Here is All the Physics you Missed
 
 ### **Listing Physics based on Length scale**
 

@@ -18,7 +18,7 @@ So, I thought I need proper mathematical training before tackling things on the 
 Exposition
 ======
 Sometimes, I also write long form scientific non-fiction focusing on fundamental physics. \
-You can check out my work under [Portfolio](https://aarushbhattofficial.github.io/portfolio/).
+You can check out my work under [Exposition](https://aarushbhattofficial.github.io/exposition/).
 
 Resources
 ======

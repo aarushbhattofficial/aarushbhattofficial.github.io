@@ -1,4 +1,4 @@
-# When Maxwell wasn’t classy enough
+<!-- # When Maxwell wasn’t classy enough -->
 
 ### Phasors Revisited
 
@@ -6,7 +6,7 @@ Ok. I have to admit that Maxwell solved a lot of problems in physics.
 
 A lot.
 
-But, was it classy enough ?
+But, was it always classy enough ?
 
 Meh. 
 

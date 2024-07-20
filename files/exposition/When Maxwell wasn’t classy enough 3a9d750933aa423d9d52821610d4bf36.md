@@ -1,4 +1,6 @@
-<!-- # When Maxwell wasn’t classy enough -->
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Here is All the Physics you Missed.png)
+# When Maxwell wasn’t classy enough
+
 
 ### Phasors Revisited
 

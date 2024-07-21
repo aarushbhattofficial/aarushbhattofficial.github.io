@@ -71,9 +71,9 @@ author_profile: true
 
 
 <!-- 3 -->
-## [The Einstein You Didn't Know | 21/10/2023](https://aarushbhattofficial.github.io/exposition/The Einstein You Didn't Know/)
+## [The Einstein You Didn’t Know | 21/10/2023](https://aarushbhattofficial.github.io/exposition/The Einstein You Didn’t Know/)
 **1921 Nobel Prize in Physics Revisited**
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/The Einstein You Didn't Know/Cover Image.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/The Einstein You Didn’t Know/Cover Image.png)
 
 
 <!-- 2 -->

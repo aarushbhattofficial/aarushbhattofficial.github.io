@@ -1,5 +1,3 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/The Einstein You Didn't Know/Cover Image.png)
-
 # The Einstein You Didn’t Know
 
 ### 1921 Nobel Prize in Physics Revisited
@@ -30,7 +28,7 @@ We have come a long way from Plato’s theory of vision in which light consisted
 
 Though we will be adressing the history of light and its physics in a separate article, the key takeaway is that 2 competing behaviours of light kept physicists scratching their heads for quite a few centuries. These were namely the particle nature and the wave nature of light. For instance, the photoelectric effect that will be discussed in detail later on is a demonstration of light’s particulate nature while Young’s Double Slit Experiment is that of its wave nature.
 
-![Young’s Double Slit Experiment shows wave nature of light](https://aarushbhattofficial.github.io/images/exposition/The Einstein You Didn't Know/1000058686.gif)
+![Young’s Double Slit Experiment shows wave nature of light](The%20Einstein%20You%20Didn%E2%80%99t%20Know%209d8137e0231d45dc9c08371dee287499/1000058686.gif)
 
 Young’s Double Slit Experiment shows wave nature of light
 
@@ -46,7 +44,7 @@ During this time, Maxwell made a correction to Ampère’s Circuital Law (now kn
 
 This was done in order to properly describe current flowing through an electric capacitor. On paper, the correction corresponds to the addition of just a small term of ‘displacement current’ to the last of 4 laws that he formulated with his English comrade Oliver Heavyside. But it is this very term that revolutionised the way we think about light.
 
-![Displacement Current flowing through a capacitor](https://aarushbhattofficial.github.io/images/exposition/The Einstein You Didn't Know/1000058708.png)
+![Displacement Current flowing through a capacitor](The%20Einstein%20You%20Didn%E2%80%99t%20Know%209d8137e0231d45dc9c08371dee287499/1000058708.png)
 
 Displacement Current flowing through a capacitor
 
@@ -80,7 +78,7 @@ In particular, black body radiation, photoluminescence, generation of cathode ra
 
 Einstein described light as a beam of particles whose energies are related to their frequencies according to Planck's formula. When that beam is directed at a metal, the photons collide with the atoms. If a photon's frequency is sufficient to knock off an electron, the collision produces the photoelectric effect. 
 
-![Schematic diagram of Photoelectric effect setup](https://aarushbhattofficial.github.io/images/exposition/The Einstein You Didn't Know/1000058709.png)
+![Schematic diagram of Photoelectric effect setup](The%20Einstein%20You%20Didn%E2%80%99t%20Know%209d8137e0231d45dc9c08371dee287499/1000058709.png)
 
 Schematic diagram of Photoelectric effect setup
 
@@ -122,7 +120,7 @@ Einstein was developing his own form of statistical mechanics - a ‘general mol
 
 In 1827, the Scottish botanist Robert Brown noticed that pollen grains suspended in water moved in an irregular and random motion. This motion, called Brownian motion, is due to the impact of the molecules of the fluid surrounding the object.
 
-![Pollen grains suspended in water](https://aarushbhattofficial.github.io/images/exposition/The Einstein You Didn't Know/1000058710.gif)
+![Pollen grains suspended in water](The%20Einstein%20You%20Didn%E2%80%99t%20Know%209d8137e0231d45dc9c08371dee287499/1000058710.gif)
 
 Pollen grains suspended in water
 

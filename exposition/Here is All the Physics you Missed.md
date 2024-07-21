@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Here is All the Physics you Missed.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Here is All the Physics you Missed/Cover Image.png)
 
 # Here is All the Physics you Missed
 ### **Listing Physics based on Length scale**

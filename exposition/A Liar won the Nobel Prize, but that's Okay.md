@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/A Liar won the Nobel Prize, but that's Okay.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/A Liar won the Nobel Prize, but that's Okay/Cover Image.png)
 
 # A Liar won the Nobel Prize, but that's Okay
 
@@ -30,7 +30,7 @@ Gases being a collection of basically unbounded particles bouncing off of each o
 
 Around 1869 to 1875, English physicist William Crookes built on Geissler’s invention and created another discharge tube, now called the Crookes or Crookes-Hittorf tube, which was able to maintain pressure several magnitudes lower than that possible with Geißler tubes.
 
-![1000048011.png](A%20Liar%20won%20the%20Nobel%20Prize,%20but%20that's%20Okay%20171d9c49693843d1887ac3abdac4283c/1000048011.png)
+![1000048011.png](https://aarushbhattofficial.github.io/images/exposition/A Liar won the Nobel Prize, but that's Okay/1000048011.png)
 
 (Source : Lisovskiy, Valeriy & Koval, V & Artushenko, E & Yegorenkov, V. (2012). Validating the Goldstein–Wehner law for the stratified positive column of dc discharge in an undergraduate laboratory. European Journal of Physics. 33. 1537-1545. 10.1088/0143-0807/33/6/1537)
 
@@ -76,7 +76,7 @@ Millikan set out to improve on the findings of Wilson and realized that trying t
 So in 1909, he began the experiments, but soon found that droplets of water evaporated too quickly for accurate measurement. He asked his graduate student, Harvey Fletcher, to figure out how to do the experiment using some substance that evaporated more slowly.
 Fletcher quickly found that he could use droplets of oil, produced with a simple perfume atomizer.
 
-![Diagram of Millikan's apparatus from his Physical Review paper](A%20Liar%20won%20the%20Nobel%20Prize,%20but%20that's%20Okay%20171d9c49693843d1887ac3abdac4283c/Scheme_of_Millikans_oil-drop_apparatus.jpg)
+![Diagram of Millikan's apparatus from his Physical Review paper](https://aarushbhattofficial.github.io/images/exposition/A Liar won the Nobel Prize, but that's Okay/Scheme_of_Millikans_oil-drop_apparatus.jpg)
 
 Diagram of Millikan's apparatus from his Physical Review paper
 
@@ -128,7 +128,7 @@ He writes, ‘Millikan also engaged in selectivity in both the data he used and 
 
 Millikan took data from October 28, 1911 to April 16, 1912. My own count of the number of drops experimented on during thisperiod is 175. Even if one were willing to count only those observations made after February 13, 1912, the date of the first observation Millikan published, there are 49 excluded drops. We might suspect that Millikan selectively analyzed his data to support his preconceptions.’
 
-![Table from Allan Franklin’s Paper](A%20Liar%20won%20the%20Nobel%20Prize,%20but%20that's%20Okay%20171d9c49693843d1887ac3abdac4283c/1000048024.jpg)
+![Table from Allan Franklin’s Paper](https://aarushbhattofficial.github.io/images/exposition/A Liar won the Nobel Prize, but that's Okay/1000048024.jpg)
 
 Table from Allan Franklin’s Paper
 
@@ -142,7 +142,7 @@ Not only did Millikan experimentally prove the same, but he also made the discov
 
 At the time, no determination of charge e by any other method existed which did not involve an uncertainty at least 15 times as great as that represented in Millikan’s measurements. The calculation of elementary charge by Millikan enabled us to calculate, with unmatched precision, a large number of the most important physical constants.
 
-![Physical constants measured by Millikan](A%20Liar%20won%20the%20Nobel%20Prize,%20but%20that's%20Okay%20171d9c49693843d1887ac3abdac4283c/Screenshot_20231019_101634_Drive.jpg)
+![Physical constants measured by Millikan](https://aarushbhattofficial.github.io/images/exposition/A Liar won the Nobel Prize, but that's Okay/Screenshot_20231019_101634_Drive.jpg)
 
 Physical constants measured by Millikan
 

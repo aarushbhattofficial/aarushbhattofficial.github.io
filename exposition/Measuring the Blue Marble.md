@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Measuring the Blue Marble/Cover Image.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Measuring the Blue Marble/Cover Image.webp)
 
 
 # Measuring the Blue Marble

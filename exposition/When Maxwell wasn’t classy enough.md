@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/When Maxwell wasn’t classy enough/Cover Image.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/When Maxwell wasn’t classy enough/Cover Image.jpg)
 
 
 # When Maxwell wasn’t classy enough

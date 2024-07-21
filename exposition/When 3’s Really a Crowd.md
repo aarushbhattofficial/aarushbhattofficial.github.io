@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/When 3’s Really a Crowd/Cover Image.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/When 3’s Really a Crowd/Cover Image.gif)
 
 
 # When 3’s Really a Crowd

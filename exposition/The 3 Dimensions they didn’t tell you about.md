@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/The 3 Dimensions they didn’t tell you about/Cover Image.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/The 3 Dimensions they didn’t tell you about/Cover Image.jpg)
 
 
 # The 3 Dimensions they didn’t tell you about

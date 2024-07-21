@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Let Light Fly the Sparks/Cover Image.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Let Light Fly the Sparks/Cover Image.jpg)
 
 
 # Let Light Fly the Sparks

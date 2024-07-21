@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Newton was wrong about Light ! But so was everyone/Cover Image.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Newton was wrong about Light ! But so was everyone/Cover Image.gif)
 
 
 # Newton was wrong about Light ! But so was everyone else

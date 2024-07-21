@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Looking outside the Box/Cover Image.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Looking outside the Box/Cover Image.jpg)
 
 
 # Looking outside the Box

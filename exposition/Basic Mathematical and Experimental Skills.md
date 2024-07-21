@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Basic Mathematical and Experimental Skills/Cover Image.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/Basic Mathematical and Experimental Skills/Cover Image.jpg)
 
 
 # Basic Mathematical and Experimental Skills

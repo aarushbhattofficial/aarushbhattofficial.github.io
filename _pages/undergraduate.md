@@ -12,22 +12,22 @@ title: "Undergraduate Notes"
 - MS101 Makerspace
 
 Spring 2025
-===
+---
 
 Fall 2025
-===
+---
 
 Spring 2026
-===
+---
 
 Fall 2026
-===
+---
 
 Spring 2027
-===
+---
 
 Fall 2027
-===
+--- 
 
 Spring 2028
-===
+---

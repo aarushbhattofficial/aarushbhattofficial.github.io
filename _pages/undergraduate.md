@@ -1,5 +1,5 @@
 ---
-permalink: /resources/undergraduate
+permalink: /resources/undergraduate/
 title: "Undergraduate"
 ---
 

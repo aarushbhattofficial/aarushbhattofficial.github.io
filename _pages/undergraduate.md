@@ -5,6 +5,11 @@ title: "Undergraduate Notes"
 
 [Fall 2024](https://aarushbhattofficial.github.io/resources/undergraduate/fall2024/)
 ===
+- MA105 Calculus
+- MA113 Mathematics and its History
+- MA114 Introduction to Mathematical Concepts
+- PH109 Fundamental Themes in Physics
+- MS101 Makerspace
 
 Spring 2025
 ===

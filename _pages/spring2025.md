@@ -40,9 +40,22 @@ PH110
 **Introduction to Classical and Quantum Physics** \
 Classical Physics
 - [Lecture 1](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L1.pdf)
+- [Lecture 2](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L2.pdf)
+- [Lecture 3](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L3.pdf)
+- [Lecture 4](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L4.pdf)
+- [Lecture 5](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L5.pdf)
+- [Lecture 6](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L6.pdf)
+- [Tutorial Problems and Solutions](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_Tutorial_Problems_and_Solutions.pdf)
 
 
+PH117
+---
+**Physics Lab**
 
+
+CS101
+---
+**Computer Programming**
 
 
 

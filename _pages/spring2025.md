@@ -47,6 +47,7 @@ Classical Physics
 - [Lecture 6: Special Theory of Relativity](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L6.pdf)
 - [Tutorial Problems and Solutions](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_Tutorial_Problems_and_Solutions.pdf)
 
+Quantum Physics
 
 PH117
 ---

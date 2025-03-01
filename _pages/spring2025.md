@@ -51,6 +51,15 @@ Classical Physics
 PH117
 ---
 **Physics Lab**
+- [Experiment 1: Laser Diffraction](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH117/PH117_P1.pdf)
+- [Experiment 2: Grating Spectrometer](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH117/PH117_P2.pdf)
+- [Experiment 3: Fresnel Biprism](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH117/PH117_P3.pdf)
+- [Experiment 4: Specific Charge of Electron](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH117/PH117_P4.pdf)
+- [Experiment 5: Helmholtz Coil](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH117/PH117_P5.pdf)
+- [Experiment 6: RLC Circuit](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH117/PH117_P6.pdf)
+- [Experiment 7: Thermal Conductivity by Lee's Disc Method](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH117/PH117_P7.pdf)
+- [Experiment 8: Centrifugal Force](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH117/PH117_P8.pdf)
+- [Error Analysis](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH117/PH117_Error_Analysis.pdf)
 
 
 CS101

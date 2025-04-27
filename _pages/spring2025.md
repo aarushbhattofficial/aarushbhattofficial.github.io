@@ -83,13 +83,26 @@ CS101
 ---
 **Computer Programming**
 - [Lecture 1](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L1.pdf)
-
-
-
-
-
-
-
-
+- [Lecture 2](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L2.pdf)
+- [Lecture 3](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L3.pdf)
+- [Lecture 4](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L4.pdf)
+- [Lecture 5](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L5.pdf)
+- [Lecture 6](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L6.pdf)
+- [Lecture 7](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L7.pdf)
+- [Lecture 8](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L8.pdf)
+- [Lecture 9](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L9.pdf)
+- [Lecture 10](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L10.pdf)
+- [Lecture 11](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L11.pdf)
+- [Lecture 12](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L12.pdf)
+- [Lecture 13](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L13.pdf)
+- [Lecture 14](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L14.pdf)
+- [Lecture 15](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L15.pdf)
+- [Lecture 16](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L16.pdf)
+- [Lecture 17](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L17.pdf)
+- [Lecture 18](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L18.pdf)
+- [Lecture 19](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L19.pdf)
+- [Lecture 20](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L20.pdf)
+- [Lecture 21](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L21.pdf)
+- [Lecture 22](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L22.pdf)
 
 

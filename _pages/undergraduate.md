@@ -13,7 +13,7 @@ title: "Undergraduate Notes"
 
 [Spring 2025](https://aarushbhattofficial.github.io/resources/undergraduate/spring2025/)
 ---
-- MA110: Linear Algebra and Differntial Equations
+- MA110: Linear Algebra and Differential Equations
 - PH110: Introduction to Classical and Quantum Physics
 - PH117: Physics Lab 
 - CS101: Computer Programming

@@ -33,21 +33,37 @@ Linear Algebra
 
 
 Differential Equations
+- [Notes](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/MA110/MA110_DE/MA110_DE_Notes.pdf)
+- [Tutorial Problems](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/MA110/MA110_DE/MA110_DE_Tutorial_Problems.pdf)
+- [Tutorial Solutions](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/MA110/MA110_DE/MA110_DE_Tutorial_Solutions.pdf)
 
 
 PH110
 ---
 **Introduction to Classical and Quantum Physics** \
 Classical Physics
-- [Lecture 1: The Basics](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L1.pdf)
-- [Lecture 2: Kinematics](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L2.pdf)
-- [Lecture 3: Work-Energy Theorem](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L3.pdf)
-- [Lecture 4: Non-Inertial Frames and Pseudo Forces](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L4.pdf)
-- [Lecture 5: Central Force](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L5.pdf)
-- [Lecture 6: Special Theory of Relativity](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L6.pdf)
+- [Chapter 1: The Basics](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L1.pdf)
+- [Chapter 2: Kinematics](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L2.pdf)
+- [Chapter 3: Work-Energy Theorem](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L3.pdf)
+- [Chapter 4: Non-Inertial Frames and Pseudo Forces](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L4.pdf)
+- [Chapter 5: Central Force](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L5.pdf)
+- [Chapter 6: Special Theory of Relativity](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_L6.pdf)
 - [Tutorial Problems and Solutions](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_C/PH110_C_Tutorial_Problems_and_Solutions.pdf)
 
 Quantum Physics
+- [Chapter 1: Introduction - Why Quantum Theory ?](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_L1.pdf)
+- [Chapter 2:  Schrödinger Equation, Wave Packets and Uncertaintly Principle](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_L2.pdf)
+- [Chapter 3: Solving the Time-Independent Schrödinger Equation (TISE) for Some One-dimensional Systems](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_L3.pdf)
+
+
+- [Tutorial 0](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_0.pdf)
+- [Tutorial 1](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_1.pdf)
+- [Tutorial 2](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_2.pdf)
+- [Tutorial 3](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_3.pdf)
+- [Tutorial 4](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_4.pdf)
+- [Tutorial 5](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_5.pdf)
+- [Tutorial 6](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_6.pdf)
+- [Tutorial Solutions](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_Solutions.pdf)
 
 PH117
 ---
@@ -66,6 +82,8 @@ PH117
 CS101
 ---
 **Computer Programming**
+- [Lecture 1](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/CS101/CS101_L1.pdf)
+
 
 
 

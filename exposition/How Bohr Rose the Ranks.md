@@ -1,7 +1,7 @@
 ![Cover Image](https://aarushbhattofficial.github.io/images/exposition/How Bohr became a Top G/Cover Image.png)
 
 
-# How Bohr became a Top G
+# How Bohr Rose the Ranks
 
 ### Modern Atomic Models Revisited
 

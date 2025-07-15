@@ -1,4 +1,4 @@
-![Cover Image](https://aarushbhattofficial.github.io/images/exposition/How Bohr became a Top G/Cover Image.png)
+![Cover Image](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/Cover Image.png)
 
 
 # How Bohr Rose the Ranks
@@ -29,7 +29,7 @@ Are they really placed as arbitraily as you have been told they are ?
 
 In March 1904, Thomson proposed a model consisting of a uniform sphere of positive charge and **a single ring of electron.** The motion of each electron is governed only by its electrostatic attraction toward the center of the sphere, and by the repulsion from each of the other electrons.
 
-![Diagram of Thomson's 1904 atomic model. A uniform sphere of positive charge (shaded region, of radius b) contains n negative point charges arranged at equal intervals around a circle (of radius a).](https://aarushbhattofficial.github.io/images/exposition/How Bohr became a Top G/1000060024.png)
+![Diagram of Thomson's 1904 atomic model. A uniform sphere of positive charge (shaded region, of radius b) contains n negative point charges arranged at equal intervals around a circle (of radius a).](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060024.png)
 
 Diagram of Thomson's 1904 atomic model. A uniform sphere of positive charge (shaded region, of radius b) contains n negative point charges arranged at equal intervals around a circle (of radius a).
 
@@ -71,7 +71,7 @@ Yet, like always, there’s a catch.
 
 Classical electrodynamics	predicts that any accelerated charge will radiate energy in the form of electromagnetic waves. Therefore, **the kinetic energy of a system of electrons in periodic motion	would be dissipated by the resulting radiation until exhausted.**
 
-![Accelerated charge (electron) spiralling into the nucleus by emitting electromagnetic radiation according to classical theory.](https://aarushbhattofficial.github.io/images/exposition/How Bohr became a Top G/1000060549.png)
+![Accelerated charge (electron) spiralling into the nucleus by emitting electromagnetic radiation according to classical theory.](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060549.png)
 
 Accelerated charge (electron) spiralling into the nucleus by emitting electromagnetic radiation according to classical theory.
 
@@ -136,11 +136,11 @@ As Marsden recalls,
 
 *“One day Rutherford came into the room where [Geiger and I] were counting α-particles … turned to me and said, ‘See if	 you can get some effect of α-particles directly reflected from a metal surface.’ […] I do not think he expected any such result.”*
 
-![Replica of one of Geiger and Marsden's apparatus used in a 1913 experiment](https://aarushbhattofficial.github.io/images/exposition/How Bohr became a Top G/1000064962.jpg)
+![Replica of one of Geiger and Marsden's apparatus used in a 1913 experiment](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000064962.jpg)
 
 Replica of one of Geiger and Marsden's apparatus used in a 1913 experiment
 
-![1000060296.gif](https://aarushbhattofficial.github.io/images/exposition/How Bohr became a Top G/1000060296.gif)
+![1000060296.gif](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060296.gif)
 
 (Source : https://en.m.wikipedia.org/wiki/Geiger%E2%80%93Marsden_experiments)
 
@@ -188,7 +188,7 @@ Or atleast, he didn’t give a complete one.
 
 Rutherford established bounds on the size of the uniform positively charged sphere predicted by Thomson, with which he proposed the existence of an atomic nucleus. But, given the assumptions of his model, **his results were practically independent of the distribution of electrons in the atom.**
 
-![Rutherford’s Nuclear Model of Atom with the nucleus in red and the electrons around it in green colour.](https://aarushbhattofficial.github.io/images/exposition/How Bohr became a Top G/1000060550.png)
+![Rutherford’s Nuclear Model of Atom with the nucleus in red and the electrons around it in green colour.](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060550.png)
 
 Rutherford’s Nuclear Model of Atom with the nucleus in red and the electrons around it in green colour.
 
@@ -385,7 +385,7 @@ For n2 = 2 and integral values of n1 greater than 2 results in the formula disco
 
 The family of frequencies corresponding to these electronic transitions is thus called the Balmer series. Similarly, n2 = 3 corresponded to the infrared spectrum (Paschen series) observed by Paschen in 1908. The series corresponding to n2 = 1, 4, 5… were then, yet to be observed as they were either in extreme UV (for n2 = 1), or extreme Infrared (for n2 = 4, 5…).
 
-![Hydrogen Emission Spectrum showing Lymann, Balmer, Paschen, Brackett, Pfund and Humphrey series.](https://aarushbhattofficial.github.io/images/exposition/How Bohr became a Top G/1000060544.png)
+![Hydrogen Emission Spectrum showing Lymann, Balmer, Paschen, Brackett, Pfund and Humphrey series.](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060544.png)
 
 Hydrogen Emission Spectrum showing Lymann, Balmer, Paschen, Brackett, Pfund and Humphrey series.
 

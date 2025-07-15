@@ -20,6 +20,12 @@ title: "Undergraduate Notes"
 
 Fall 2025
 ---
+- MA401: Linear Algebra
+- MA403: Real Analysis
+- MA419: Basic Algebra
+- SI427: Probability I
+- DS203: Programming for Data Science
+- EC101: Economics
 
 Spring 2026
 ---

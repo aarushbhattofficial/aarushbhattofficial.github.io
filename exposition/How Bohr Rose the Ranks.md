@@ -401,8 +401,8 @@ This single derivation, made Bohr the legend we know him as today.
 
 # References
 
--  [^fn]Early Atomic Models - From Mechanical to Quantum (1904-1913) by Charles Baily [^fn]
--  [^fn]https://en.m.wikipedia.org/wiki/Vortex_theory_of_the_atom [^fn]
--  [^fn]https://en.m.wikipedia.org/wiki/Hantaro_Nagaoka [^fn]
--  [^fn]https://en.m.wikipedia.org/wiki/Bohr_model [^fn]
--  [^fn]https://en.m.wikipedia.org/wiki/Correspondence_principle [^fn]
+-  <sup>Early Atomic Models - From Mechanical to Quantum (1904-1913) by Charles Baily </sup>
+-  <sup>https://en.m.wikipedia.org/wiki/Vortex_theory_of_the_atom </sup>
+-  <sup>https://en.m.wikipedia.org/wiki/Hantaro_Nagaoka </sup>
+-  <sup>https://en.m.wikipedia.org/wiki/Bohr_model </sup>
+-  <sup>https://en.m.wikipedia.org/wiki/Correspondence_principle </sup>

@@ -31,9 +31,9 @@ In March 1904, Thomson proposed a model consisting of a uniform sphere of positi
 
 ![Diagram of Thomson's 1904 atomic model. A uniform sphere of positive charge (shaded region, of radius b) contains n negative point charges arranged at equal intervals around a circle (of radius a).](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060024.png)
 
-Diagram of Thomson's 1904 atomic model. A uniform sphere of positive charge (shaded region, of radius b) contains n negative point charges arranged at equal intervals around a circle (of radius a).
+<sup> Diagram of Thomson's 1904 atomic model. A uniform sphere of positive charge (shaded region, of radius b) contains n negative point charges arranged at equal intervals around a circle (of radius a).</sup>
 
-(Source : Early Atomic Models - From Mechanical to Quantum (1904-1913) by Charles Baily)
+<sup> (Source : Early Atomic Models - From Mechanical to Quantum (1904-1913) by Charles Baily)</sup>
 
 Thomson had analyzed a system of n electrons (mass m and charge –e), arranged on a ring of radius a, centered within a positive sphere of radius b.
 
@@ -73,9 +73,8 @@ Classical electrodynamics predicts that any accelerated charge will radiate ener
 
 ![Accelerated charge (electron) spiralling into the nucleus by emitting electromagnetic radiation according to classical theory.](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060549.png)
 
-Accelerated charge (electron) spiralling into the nucleus by emitting electromagnetic radiation according to classical theory.
-
-(Source : https://chem.libretexts.org/Courses/Solano_Community_College/Chem_160/Chapter_07%3A_Atomic_Structure_and_Periodicity/7.04_The_Bohr_Model)
+<sup>Accelerated charge (electron) spiralling into the nucleus by emitting electromagnetic radiation according to classical theory.</sup>
+<sup> (Source : https://chem.libretexts.org/Courses/Solano_Community_College/Chem_160/Chapter_07%3A_Atomic_Structure_and_Periodicity/7.04_The_Bohr_Model)</sup>
 
 Thomson saw this **radiative instability as a mechanism for the production of β radiation.**
 
@@ -138,11 +137,11 @@ As Marsden recalls,
 
 ![Replica of one of Geiger and Marsden's apparatus used in a 1913 experiment](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000064962.jpg)
 
-Replica of one of Geiger and Marsden's apparatus used in a 1913 experiment
+<sup>Replica of one of Geiger and Marsden's apparatus used in a 1913 experiment</sup>
 
 ![1000060296.gif](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060296.gif)
 
-(Source : https://en.m.wikipedia.org/wiki/Geiger%E2%80%93Marsden_experiments)
+<sup>(Source : https://en.m.wikipedia.org/wiki/Geiger%E2%80%93Marsden_experiments)</sup>
 
 By 1910, Geiger had amassed a substantial amount of scattering data by systematically varying the type and thickness of the scattering material.
 
@@ -190,9 +189,8 @@ Rutherford established bounds on the size of the uniform positively charged sphe
 
 ![Rutherford’s Nuclear Model of Atom with the nucleus in red and the electrons around it in green colour.](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060550.png)
 
-Rutherford’s Nuclear Model of Atom with the nucleus in red and the electrons around it in green colour.
-
-(Source : https://en.m.wikipedia.org/wiki/Rutherford_model)
+<sup>Rutherford’s Nuclear Model of Atom with the nucleus in red and the electrons around it in green colour.</sup>
+<sup> (Source : https://en.m.wikipedia.org/wiki/Rutherford_model)</sup>
 
 Moreover, the radiative instability due to electrons being accelerate while orbiting around the nucleus still remained unexplained.
 
@@ -387,9 +385,8 @@ The family of frequencies corresponding to these electronic transitions is thus 
 
 ![Hydrogen Emission Spectrum showing Lymann, Balmer, Paschen, Brackett, Pfund and Humphrey series.](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060544.png)
 
-Hydrogen Emission Spectrum showing Lymann, Balmer, Paschen, Brackett, Pfund and Humphrey series.
-
-(Source : https://en.m.wikipedia.org/wiki/Hydrogen_spectral_series)
+<sup> Hydrogen Emission Spectrum showing Lymann, Balmer, Paschen, Brackett, Pfund and Humphrey series </sup>
+<sup> (Source : https://en.m.wikipedia.org/wiki/Hydrogen_spectral_series)</sup>
 
 The	Balmer formula was known for decades, but	had	hitherto no theoretical	explanation.
 
@@ -399,10 +396,9 @@ Bohr achieved what Thomson and Rutheford couldn’t. He made the theory of Hydro
 
 This single derivation, made Bohr the legend we know him as today.
 
-# References
-
--  <sup>Early Atomic Models - From Mechanical to Quantum (1904-1913) by Charles Baily </sup>
--  <sup>https://en.m.wikipedia.org/wiki/Vortex_theory_of_the_atom </sup>
--  <sup>https://en.m.wikipedia.org/wiki/Hantaro_Nagaoka </sup>
--  <sup>https://en.m.wikipedia.org/wiki/Bohr_model </sup>
--  <sup>https://en.m.wikipedia.org/wiki/Correspondence_principle </sup>
+--- 
+<sup> Early Atomic Models - From Mechanical to Quantum (1904-1913) by Charles Baily </sup>
+<sup>https://en.m.wikipedia.org/wiki/Vortex_theory_of_the_atom </sup>
+<sup>https://en.m.wikipedia.org/wiki/Hantaro_Nagaoka </sup>
+<sup>https://en.m.wikipedia.org/wiki/Bohr_model </sup>
+<sup>https://en.m.wikipedia.org/wiki/Correspondence_principle </sup>

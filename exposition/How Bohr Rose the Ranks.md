@@ -55,7 +55,7 @@ Sadly, n = 6 gives us a mechanically unstable a ring of electrons.
 
 Regardless of its angular velocity, the presence an additional negative charge would be required at center of the sphere to restore stability. Moreover, if the number of outer electrons was beyond 8, more and more of such interior charges	would be required for the stability of the system.
 
-Thomson thought these **interior	 charges	would arrange themselves into closed, stable orbits.**
+Thomson thought these **interior charges would arrange themselves into closed, stable orbits.**
 
 So, atoms with n > 8 must be made up of a **series of concentric rings of electrons.**
 
@@ -69,7 +69,7 @@ The prospect seems remarkable.
 
 Yet, like always, there’s a catch.
 
-Classical electrodynamics	predicts that any accelerated charge will radiate energy in the form of electromagnetic waves. Therefore, **the kinetic energy of a system of electrons in periodic motion	would be dissipated by the resulting radiation until exhausted.**
+Classical electrodynamics predicts that any accelerated charge will radiate energy in the form of electromagnetic waves. Therefore, **the kinetic energy of a system of electrons in periodic motion	would be dissipated by the resulting radiation until exhausted.**
 
 ![Accelerated charge (electron) spiralling into the nucleus by emitting electromagnetic radiation according to classical theory.](https://aarushbhattofficial.github.io/images/exposition/How Bohr Rose the Ranks/1000060549.png)
 
@@ -79,7 +79,7 @@ Accelerated charge (electron) spiralling into the nucleus by emitting electromag
 
 Thomson saw this **radiative instability as a mechanism for the production of β radiation.**
 
-*“… in consequence of the radiation from the moving corpuscles (electrons), their velocities will slowly very slowly diminish; when, after a long interval, the velocity reaches the critical velocity, there will be what is equivalent to an explosion of the	corpuscles […] The kinetic energy gained	in this way might be sufficient to carry the system out of the atom, and we should have, as in the case of radium, a part of the atom shot off. In consequence of the very slow dissipation of energy by radiation the life of the atom would be very long.”*
+*“… in consequence of the radiation from the moving corpuscles (electrons), their velocities will slowly very slowly diminish; when, after a long interval, the velocity reaches the critical velocity, there will be what is equivalent to an explosion of the	corpuscles […] The kinetic energy gained in this way might be sufficient to carry the system out of the atom, and we should have, as in the case of radium, a part of the atom shot off. In consequence of the very slow dissipation of energy by radiation the life of the atom would be very long.”*
 
 ### β scattering
 
@@ -91,15 +91,15 @@ Each method resulted in the same conclusion - **number of electrons in an atom s
 
 Thomson believed the loss of kinetic energy for β-particles in an absorbing substance, and their deflection when passing through thin sheets of metal, could both be explained as resulting from a **series of multiple encounters with the individual atoms in the material.**
 
-He assumed the change in energy of a β-particle deflected by a	single atom would be small.
+He assumed the change in energy of a β-particle deflected by a single atom would be small.
 
-The source of this deflection would be the interactions with the uniformly distributed negative point charges modeled to being at rest. As per Thomson’s calculations, for	a succession of such encounters, the **number of transmitted particles would** **decrease exponentially with the	thickness of the scatterer.**
+The source of this deflection would be the interactions with the uniformly distributed negative point charges modeled to being at rest. As per Thomson’s calculations, for	a succession of such encounters, the **number of transmitted particles would** **decrease exponentially with the thickness of the scatterer.**
 
 ### Scope for Improvement
 
-By 1910,	Thomson had generalized	his	earlier calculations to take into account the deflection of β-particles by encounters with	 both the positive and negative charge inside an atom.
+By 1910, Thomson had generalized his earlier calculations to take into account the deflection of β-particles by encounters with	 both the positive and negative charge inside an atom.
 
-However, given the limitations of the available experimental methods, the much more massive α-particles (being studied by Rutherford	and Hans Geiger at the time) were better suited than β-particles for probing the internal structure of atoms through scattering experiments.
+However, given the limitations of the available experimental methods, the much more massive α-particles (being studied by Rutherford and Hans Geiger at the time) were better suited than β-particles for probing the internal structure of atoms through scattering experiments.
 
 This is because the high kinetic energies of α-particles allowed for neglecting their interactions with the electrons.
 
@@ -218,7 +218,7 @@ Moreover, his final equations depended on only two unknown parameters - the numb
 
 ### An Incredulous Bohr
 
-Yet, Bohr thought	many of Darwin’s assumptions	were objectionable.
+Yet, Bohr thought many of Darwin’s assumptions were objectionable.
 
 So, he decided to work on the problem himself using different methods.
 
@@ -240,17 +240,17 @@ Similarly, Bohr followed suit, applying it in the to atoms.
 
 As per him,
 
-*“According to Planck’s	theory of radiation we further have that the smallest quantity of energy which can be radiated out from an atomic vibrator is equal to ν.k, where ν is the number of vibrations per second and k = 6.55×10^-27.*
+*“According to Planck’s theory of radiation we further have that the smallest quantity of energy which can be radiated out from an atomic vibrator is equal to ν.k, where ν is the number of vibrations per second and k = 6.55×10^-27.*
 
-*This quantity	must be expected to be equal to, or at least of the same order of magnitude as, the kinetic energy of an electron of velocity just sufficient to excite the radiation.”*
+*This quantity must be expected to be equal to, or at least of the same order of magnitude as, the kinetic energy of an electron of velocity just sufficient to excite the radiation.”*
 
-[Bohr 1913a,	p. 26-7]
+[Bohr 1913a, p. 26-7]
 
-The physical	interpretation of Planck’s constant was subject to relentless debate in the decade prior.
+The physical interpretation of Planck’s constant was subject to relentless debate in the decade prior.
 
 Even though it had arisen in a thermodynamic context, namely that of the Blackbody radiation, physicists suspected whether or not it was a purely thermodynamic quantity.
 
-In 1909, Einstein thought there might be some connection	between h and the fundamental unit of charge (e). On the other hand, Wien thought that energy quantization was likely due to some kind of universal property of atoms.
+In 1909, Einstein thought there might be some connection between h and the fundamental unit of charge (e). On the other hand, Wien thought that energy quantization was likely due to some kind of universal property of atoms.
 
 Regardless, Niels Bohr was far from being the first to introduce Planck’s ideas into the atomic model.
 
@@ -258,13 +258,13 @@ Regardless, Niels Bohr was far from being the first to introduce Planck’s idea
 
 In 1910, Arthur Haas tried to establish links between atomic structure and the numerical value for h.
 
-He proposed	to model a neutral hydrogen atom as a uniform sphere of positive charge (radius a) and a single electron (mass m and charge ε) constrained to orbit on the surface of the sphere. For this, he cited a German  translation of Thomson's book "Electricity and Matter".	
+He proposed	to model a neutral hydrogen atom as a uniform sphere of positive charge (radius a) and a single electron (mass m and charge ε) constrained to orbit on the surface of the sphere. For this, he cited a German translation of Thomson's book "Electricity and Matter".	
 
 The motivation behind this was simply an order of magnitude.
 
 Haas noticed that if he divided h into the energy of an electron at the surface of the atom, the result was of the **same order of magnitude as the spectral frequencies for hydrogen.**
 
-Therefore, he set hν =	 (ε^2)/a, where ν is the **frequency of both the emitted radiation and the orbital motion of the electron.**
+Therefore, he set hν = (ε^2)/a, where ν is the **frequency of both the emitted radiation and the orbital motion of the electron.**
 
 Since the electrostatic force between the nucleus and the electron provided the centripetal force, by equating them, Haas found the electron's orbital frequency ν = ε/2πa sqrt(am) .
 
@@ -282,7 +282,7 @@ $$
 
 Another physicist, J. W. Nicholson, was inspired to use Planck’s ideas in 1912.
 
-He essentially repeated the calculations	 performed by Thomson in 1904, but for a **hypothetical nuclear-type atom called	protoflourine (central	charge of +5e).** This was invented by Nicholson himself to account for certain spectral frequencies	in the solar corona.
+He essentially repeated the calculations performed by Thomson in 1904, but for a **hypothetical nuclear-type atom called protoflourine (central	charge of +5e).** This was invented by Nicholson himself to account for certain spectral frequencies in the solar corona.
 
 Based on his calculations, Nicholson offered an alternative view on how Planck’s constant might be related to atoms.
 
@@ -292,7 +292,7 @@ His insight was that the constant could be represented in terms of **the total a
 
 [Nicholson 1912, p. 679]
 
-So, again, unlike popular belief, Bohr wasn’t the one behind the quantization of angular	momentum either.
+So, again, unlike popular belief, Bohr wasn’t the one behind the quantization of angular momentum either.
 
 ### Bohr’s genius
 
@@ -300,7 +300,7 @@ As mentioned earlier, both Thomson and Rutherford’s thories were incapable of 
 
 Bohr was disturbed by both the mechanical and radiative	instability inherent to other atomic models. So, he took note of recent work by Nicholson and was appreciative of some of Nicholson’s results. Yet, Bohr was **highly critical of any atomic model where the spectral frequencies were equated with electronic orbital frequencies.**
 
-This is because any such equivalence would be **inconsistent with the discrete	nature of spectral lines.**
+This is because any such equivalence would be **inconsistent with the discrete nature of spectral lines.**
 
 He argued,
 
@@ -314,7 +314,7 @@ So, in his seminal paper "On the Constitution of Atoms and Molecules, Part I", B
 - The stationary orbits are attained at distances for which the angular momentum of the revolving electron is an integer multiple of the reduced Planck constant mvr = nh/2π
 
 $$
-mvr = n\hbar \\\hbar = h/2\pi
+mvr = n\hbar \ \hbar = h/2\pi
 $$
 
 Here, n is called the **principal quantum number** (then simply called the orbit number).

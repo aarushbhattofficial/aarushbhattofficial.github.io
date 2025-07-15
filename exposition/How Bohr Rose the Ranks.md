@@ -314,7 +314,7 @@ So, in his seminal paper "On the Constitution of Atoms and Molecules, Part I", B
 - The stationary orbits are attained at distances for which the angular momentum of the revolving electron is an integer multiple of the reduced Planck constant mvr = nh/2π
 
 $$
-mvr = n\hbar \ \hbar = h/2\pi
+mvr = n\hbar ,\ \hbar = h/2\pi
 $$
 
 Here, n is called the **principal quantum number** (then simply called the orbit number).
@@ -401,8 +401,8 @@ This single derivation, made Bohr the legend we know him as today.
 
 # References
 
-- Early Atomic Models - From Mechanical to Quantum (1904-1913) by Charles Baily
-- https://en.m.wikipedia.org/wiki/Vortex_theory_of_the_atom
-- https://en.m.wikipedia.org/wiki/Hantaro_Nagaoka
-- https://en.m.wikipedia.org/wiki/Bohr_model
-- https://en.m.wikipedia.org/wiki/Correspondence_principle
+- ^Early Atomic Models - From Mechanical to Quantum (1904-1913) by Charles Baily^
+- ^https://en.m.wikipedia.org/wiki/Vortex_theory_of_the_atom^
+- ^https://en.m.wikipedia.org/wiki/Hantaro_Nagaoka^
+- ^https://en.m.wikipedia.org/wiki/Bohr_model^
+- ^https://en.m.wikipedia.org/wiki/Correspondence_principle^

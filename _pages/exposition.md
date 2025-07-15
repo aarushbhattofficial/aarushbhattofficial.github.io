@@ -35,7 +35,7 @@ author_profile: true
 
 
 <!-- 9 -->
-## [How Bohr became a Top G | 18/03/2024](https://aarushbhattofficial.github.io/exposition/How Bohr became a Top G/)
+## [How Bohr Rose the Ranks | 18/03/2024](https://aarushbhattofficial.github.io/exposition/How Bohr Rose the Ranks/)
 **Modern Atomic Models Revisited**
 ![Cover Image](https://aarushbhattofficial.github.io/images/exposition/How Bohr became a Top G/Cover Image.png)
 

@@ -12,7 +12,7 @@ Academics
 ======
 I am an undergraduate in the [Department of Mathematics](https://www.math.iitb.ac.in/) at IIT Bombay. \
 The increasing gap between the advancements in Theoretical Physics and the Mathematical rigour troubles me. \
-So, I thought I need proper mathematical training before tackling things on the intersection of the two.
+So, I thought I needed proper mathematical training before tackling things on the intersection of the two.
 
 
 Exposition

@@ -8,7 +8,6 @@ title: "Undergraduate Notes"
 - MA105: Calculus
 - MA113: Mathematics and its History
 - MA114: Introduction to Mathematical Concepts
-- PH109: Fundamental Themes in Physics
 - MS101: Makerspace
 
 [Spring 2025](https://aarushbhattofficial.github.io/resources/undergraduate/spring2025/)
@@ -18,13 +17,12 @@ title: "Undergraduate Notes"
 - PH117: Physics Lab 
 - CS101: Computer Programming
 
-Fall 2025
+[Fall 2025](https://aarushbhattofficial.github.io/resources/undergraduate/fall2025/)
 ---
 - MA401: Linear Algebra
 - MA403: Real Analysis
 - MA419: Basic Algebra
 - SI427: Probability I
-- DS203: Programming for Data Science
 - EC101: Economics
 
 Spring 2026

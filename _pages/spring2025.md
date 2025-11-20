@@ -54,15 +54,7 @@ Quantum Physics
 - [Chapter 1: Introduction - Why Quantum Theory ?](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_L1.pdf)
 - [Chapter 2:  Schrödinger Equation, Wave Packets and Uncertaintly Principle](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_L2.pdf)
 - [Chapter 3: Solving the Time-Independent Schrödinger Equation (TISE) for Some One-dimensional Systems](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_L3.pdf)
-
-
-- [Tutorial 0](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_0.pdf)
-- [Tutorial 1](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_1.pdf)
-- [Tutorial 2](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_2.pdf)
-- [Tutorial 3](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_3.pdf)
-- [Tutorial 4](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_4.pdf)
-- [Tutorial 5](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_5.pdf)
-- [Tutorial 6](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_6.pdf)
+- [Tutorial Problems](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_Problems.pdf)
 - [Tutorial Solutions](https://aarushbhattofficial.github.io/files/undergraduate/spring2025/PH110/PH110_Q/PH110_Q_Tutorial_Solutions.pdf)
 
 PH117

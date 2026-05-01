@@ -25,7 +25,7 @@ title: "Undergraduate Notes"
 - SI427: Probability I
 - EC101: Economics
 
-[Spring 2026](https://aarushbhattofficial.github.io/resources/undergraduate/fall2025/)
+[Spring 2026](https://aarushbhattofficial.github.io/resources/undergraduate/spring2026/)
 ---
 - MA406 : General Topology
 - MA410 : Multivariable Calculus

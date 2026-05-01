@@ -25,8 +25,13 @@ title: "Undergraduate Notes"
 - SI427: Probability I
 - EC101: Economics
 
-Spring 2026
+[Spring 2026](https://aarushbhattofficial.github.io/resources/undergraduate/fall2025/)
 ---
+- MA406 : General Topology
+- MA410 : Multivariable Calculus
+- MA412 : Complex Analysis
+- MA5016 : Introduction to Fourier Analysis
+- MA5108 : Lie Groups and Lie Algebras
 
 Fall 2026
 ---

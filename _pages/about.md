@@ -22,5 +22,4 @@ You can check out my work under [Exposition](https://aarushbhattofficial.github.
 
 Resources
 ======
-Currently, you can access my handwritten JEE Notes under [Resources](https://aarushbhattofficial.github.io/resources/). \
-I will make sure to upload my Math and Physics UG coursework notes as well as I move ahead in my academic journey.
+You can access my handwritten JEE and UG coursework notes under [Resources](https://aarushbhattofficial.github.io/resources/).

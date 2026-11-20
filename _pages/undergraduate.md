@@ -33,8 +33,12 @@ title: "Undergraduate Notes"
 - MA5016 : Introduction to Fourier Analysis
 - MA5108 : Lie Groups and Lie Algebras
 
-Fall 2026
+[Fall 2026](https://aarushbhattofficial.github.io/resources/undergraduate/fall2026/)
 ---
+- MA417 : Ordinary Differential Equations
+- MA813 : Measure Theory
+- SI419 : Combinatorics
+- SI507 : Numerical Analysis
 
 Spring 2027
 ---
